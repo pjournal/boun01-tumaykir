@@ -13,3 +13,6 @@
 
 ## Final
 [My Take Home Final Report](https://pjournal.github.io/boun01-tumaykir/FINAL1.html)
+
+## my project group's progress journal
+[here](https://pjournal.github.io/boun01g-biktik-r-tik/)
