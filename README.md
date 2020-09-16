@@ -1,7 +1,8 @@
 # boun01-tumaykir
 boun01-tumaykir created by GitHub Classroom
 
-[progress journal](https://pjournal.github.io/boun01-tumaykir/)
+[my progress journal](https://pjournal.github.io/boun01-tumaykir/)
+[my project group's progress journal](https://pjournal.github.io/boun01g-biktik-r-tik/)
 
 ## Assignment-1
 [Assignment-1](https://pjournal.github.io/boun01-tumaykir/Assignment-1.html) 
