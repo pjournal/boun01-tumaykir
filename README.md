@@ -2,6 +2,7 @@
 boun01-tumaykir created by GitHub Classroom
 
 -[my progress journal](https://pjournal.github.io/boun01-tumaykir/)
+
 -[my project group's progress journal](https://pjournal.github.io/boun01g-biktik-r-tik/)
 
 ## Assignment-1
